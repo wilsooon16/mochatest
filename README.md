@@ -1,5 +1,5 @@
 ### Mocha and Chai API Testframework 
-## contributor :wilson (wilsoon.hiu@gmail.com)
+
 
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases.
 
@@ -17,3 +17,6 @@ For more complete documenation please visit "https://mochajs.org" and "https://w
    npm install -g chai && \
    npm install -g chai-http && \
    npm install -g mochawesome
+   
+   
+   Contributor :wilson (wilsoon.hiu@gmail.com)
