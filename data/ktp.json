@@ -1,0 +1,33 @@
+[
+    {
+      "ktp_resource": {
+        "type": "KTP",
+        "format": "url",
+        "image": "https://www.hetanews.com/images/20170509/20170509043951-img-20170509-135342-800x509.JPG",
+        "is_simulation": true
+      },
+      "ktp_data_response": {
+        "valid": true,
+        "type": "KTP",
+        "data": {
+          "bloodType": "",
+          "religion": "KRISTEN",
+          "gender": "LAKI-LAKI",
+          "birthPlaceBirthday": "JAKARTA, 02-01-1992",
+          "province": "SUMATERA UTARAKKK",
+          "city": "KABUPATEN HUMBANG HASUNDUTAN",
+          "district": "DOLOK SANGGUL",
+          "village": "KUTARAJA",
+          "rtrw": "000/000",
+          "occupation": "WIRASWASTA",
+          "expiryDate": "SEUMUR HIDUP",
+          "nationality": "WNI",
+          "maritalStatus": "BELUM KAWIN",
+          "address": "LOBU TUA",
+          "idNumber": "1216060811910004",
+          "name": "PENDETA RUDINI PURBA",
+          "valid": true
+        }
+      }
+    }
+]

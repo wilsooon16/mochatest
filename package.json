@@ -1,0 +1,19 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/*.js",
+    "posttest": "open './mochawesome-report/mochawesome.html'"
+  },
+  "author": "wilson",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^6.2.0",
+    "mocha-gherkin": "^0.2.0",
+    "mochawesome": "^4.1.0"
+  }
+}
