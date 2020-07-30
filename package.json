@@ -4,7 +4,8 @@
   "description": "mocha test",
   "main": "index.js",
   "scripts": {
-    "test": "mocha 'test/*.js",
+    "test": "mocha test/*.js",
+    "spesific": "mocha test",
     "posttest": "open './mochawesome-report/mochawesome.html'"
   },
   "author": "wilson",

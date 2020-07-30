@@ -8,8 +8,10 @@ Chai is a BDD / TDD assertion library for node and the browser that can be delig
 For more complete documenation please visit "https://mochajs.org" and "https://www.chaijs.com"
 
 
+
+
 #installation step
-1. cd go this directoru.
+1. cd go this directory.
 2. sudo npm install
 
 #installation globally
@@ -17,6 +19,23 @@ For more complete documenation please visit "https://mochajs.org" and "https://w
    npm install -g chai && \
    npm install -g chai-http && \
    npm install -g mochawesome
+
+#running all sample test
+1. npm test
+
+#running spesific test
+1. npm run spesific test/filename.js
+
+#check html report
+1. check in this directory reports/mochawesome.html
+
+#install with docker
+1. cd to this directory
+2. docker build -t mocha .
+
+#running with docker
+1. docker run mocha npm test
+2. docker run mocha npm run spesific test/filename.js
    
    
-   Contributor :wilson (wilsoon.hiu@gmail.com)
+Contributor :wilson (wilsoon.hiu@gmail.com)
